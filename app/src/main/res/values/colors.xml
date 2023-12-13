@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#1E1F21</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#4ea043</color>
+    <color name="red">#d14f4f</color>
+    <color name="background_color">#F8F8FA</color>
+    <color name="button_white">#FFFFFF</color>
+    <color name="blue_lightest">#90D8FF</color>
+    <color name="blue_light">#57C4FF</color>
+    <color name="blue">#38B9FF</color>
+    <color name="button">#38B9FF</color>
+    <color name="background_gradient">@drawable/background_round</color>
+</resources>

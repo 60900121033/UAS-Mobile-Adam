@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">UAS Mobile Adam</string>
+    <string name="judul">Video Title</string>
+    <string name="description">Video Description</string>
+    <string name="list_title">RecyclerView</string>
+
+    <string-array name="video_title">
+        <item>Minecraft</item>
+        <item>GTA 5</item>
+        <item>Tetris</item>
+        <item>Wii Sports</item>
+        <item>PUBG</item>
+        <item>Mario Kart 8</item>
+        <item>Super Mario Bros</item>
+        <item>Red Dead Redemption 2</item>
+        <item>Pokemon</item>
+        <item>Terraria</item>
+        <item>Scythe</item>
+        <item>Roll For The Galaxy</item>
+        <item>Puerto Rico</item>
+        <item>Ra</item>
+        <item>Power Grid</item>
+    </string-array>
+
+    <string-array name="video_description">
+        <item>
+            Sebuah permainan pasir yang memungkinkan pemain untuk membangun dan menjelajahi dunia virtual yang terbuat dari blok. Permainan ini menawarkan kebebasan kreatif yang besar dan beragam mode permainan, termasuk mode bertahan hidup dan petualangan.
+        </item>
+        <item>
+            Sebuah permainan aksi-petualangan yang terkenal dengan gameplay dunia terbuka dan cerita yang menarik. Pemain dapat menjelajahi dunia yang luas, melakukan berbagai misi, dan berinteraksi dengan beragam karakter. Grand Theft Auto V (GTA V) menampilkan sejumlah karakter yang berperan penting dalam ceritanya yang penuh tindakan. Michael De Santa, seorang perampok bank pensiunan; Franklin Clinton, pemuda yang mencari kesempatan untuk keluar dari jalur kehidupan yang keras; dan Trevor Philips, karakter yang penuh kegilaan dan kebrutalan. Mereka membentuk inti dari perjalanan epik perampokan dan kejahatan di kota fiksi Los Santos. Selain karakter utama, ada juga pendukung yang kental dengan kepribadian mereka masing-masing, seperti Lamar Davis, teman lama Franklin; Lester Crest, master otak di balik rencana kejahatan; dan Amanda De Santa, istri Michael. Kelompok ini menghadapi konflik, tawaran bisnis yang meragukan, dan dinamika hubungan yang rumit di tengah dunia kriminal yang penuh dengan intrik dan kekacauan.
+        </item>
+        <item>
+            Sebuah permainan teka-teki klasik di mana pemain menyusun blok-blok jatuh untuk melengkapi baris. Permainan ini menawarkan tantangan yang adiktif dan dapat dimainkan oleh berbagai kelompok usia.
+        </item>
+        <item>
+            Sebuah kumpulan permainan olahraga yang dirancang untuk mendemonstrasikan kemampuan sensor gerak dari Wii Remote. Permainan ini menawarkan beragam olahraga, seperti tenis, tinju, dan boling, yang dapat dimainkan secara realistis.
+        </item>
+        <item>
+            Sebuah permainan tembak-menembak battle-royale yang populer dengan gameplay intens dan peta yang luas. Pemain harus bertahan hidup dan menjadi yang terakhir selamat di tengah persaingan sengit. Dalam pertempuran intens di Pulau Erangel, pemain dapat memilih antara karakter-karakter seperti Alex, Victor, Nikita, dan Misha.
+        </item>
+        <item>
+            Sebuah permainan balap yang menampilkan karakter-karakter dari waralaba Mario, dikenal dengan lintasan berwarna-warni dan mode multipemain yang menyenangkan.
+        </item>
+        <item>
+            Sebuah permainan platform yang mengikuti petualangan Mario dalam menyelamatkan Putri Toadstool dari antagonis, Bowser. Permainan ini menjadi ikonik dalam sejarah industri permainan video.Super Mario Bros memiliki sejumlah karakter ikonik yang telah menjadi bagian tak terpisahkan dari dunia permainan video. Mario, si tukang ledeng penuh semangat; Luigi, saudara Mario yang setia; Princess Peach, putri kerajaan Mushroom; Bowser, raja Koopa yang jahat; Toad, penduduk jamur setia kerajaan; Yoshi, dinosaurus berbicara yang setia kepada Mario; Wario, versi jahat dari Mario; Waluigi, saudara jahat Luigi; Donkey Kong, kera raksasa dengan hati emas; dan Koopa Troopa, pasukan kura-kura yang setia kepada Bowser. Setiap karakter ini memberikan warna dan keunikan tersendiri dalam petualangan Mario di Kerajaan Jamur.
+        </item>
+        <item>
+            Sebuah permainan aksi-petualangan yang berlatar belakang dunia terbuka, menawarkan cerita yang memikat dan gameplay realistis. Pemain dapat menjelajahi Wild West dan mengalami berbagai petualangan epik. Dalam Red Dead Redemption 2, Arthur Morgan adalah protagonis utama yang membentuk inti kelompok Van der Linde, yang juga melibatkan tokoh-tokoh seperti Dutch van der Linde, pemimpin kelompok yang karismatik; John Marston, yang kemudian menjadi protagonis utama dalam Red Dead Redemption; dan Sadie Adler, seorang wanita yang tangguh dan penuh semangat. Kelompok ini juga mencakup Hosea Matthews, sebagai sosok bijaksana; Micah Bell, karakter kontroversial; Charles Smith, ahli bertarung yang andal; serta Javier Escuella dan Bill Williamson, dua anggota lainnya. Tidak ketinggalan, Jack Marston, anak John, juga menjadi bagian penting dalam naratif permainan. Seluruhnya, karakter-karakter ini memberikan dimensi dan kedalaman pada kisah epik di dunia Barat liar yang penuh intrik dan konflik.
+        </item>
+        <item>
+            Sebuah permainan peran di mana pemain menangkap dan melatih makhluk-makhluk bernama Pokémon untuk pertarungan. Permainan ini telah menjadi ikonik dalam waralaba Pokémon dan terus populer hingga saat ini. Game Pokemon Red, Green, Blue, dan Yellow menampilkan sejumlah karakter yang menjadi ikon dalam dunia Pokemon. Pemain memulai petualangan mereka dengan memilih satu dari tiga Pokemon starter: Bulbasaur, Charmander, atau Squirtle. Selain itu, ada rival setia yang selalu menantang pemain untuk pertarungan, yaitu Blue. Selama perjalanan, pemain juga akan berhadapan dengan para pemimpin Gym seperti Brock, Misty, Lt. Surge, dan banyak lagi. Tim Rocket, sebuah organisasi kriminal, dipimpin oleh Giovanni. Para legendaris seperti Articuno, Zapdos, dan Moltres juga menjadi bagian integral dari petualangan untuk menjadi Pokemon Master.
+        </item>
+        <item>
+            Sebuah permainan pasir 2D yang memungkinkan pemain untuk menjelajahi, membangun, dan bertarung di dunia yang dihasilkan secara prosedural. Permainan ini menawarkan beragam konten dan tantangan yang menarik.
+        </item>
+        <item>
+            Sebuah permainan strategi 4X yang berlatar belakang fiksi ilmiah alternatif di Eropa Timur pada tahun 1920-an. Pemain memimpin fraksi unik untuk mengembangkan wilayah, merekrut pasukan, dan memperluas kekuasaan mereka.
+        </item>
+        <item>
+            Sebuah permainan dadu di mana pemain memimpin peradaban mereka untuk mengembangkan teknologi, mengekspansi wilayah, dan berdagang di luar angkasa. Setiap pemain mencoba membangun kerajaan galaksi mereka sendiri.
+        </item>
+        <item>
+            Sebuah permainan strategi ekonomi di mana pemain membangun dan mengelola perkebunan di Puerto Rico. Mereka harus memutuskan kapan dan di mana untuk mengirim barang, merekrut pekerja, dan mengembangkan infrastruktur mereka.
+        </item>
+        <item>
+            Sebuah permainan lelang dan manajemen sumber daya yang berlatar belakang Mesir kuno. Pemain bersaing untuk mengumpulkan set koleksi artefak yang berharga dan mengelola sumber daya mereka dengan bijak.
+        </item>
+        <item>
+            Sebuah permainan manajemen sumber daya di mana pemain membangun jaringan listrik di berbagai kota. Mereka harus bersaing untuk mendapatkan sumber daya, membangun pembangkit listrik, dan menyuplai listrik ke wilayah yang berbeda.
+        </item>
+    </string-array>
+
+    <array name="video_id">
+        <item>@raw/minecraft</item>
+        <item>@raw/gta5</item>
+        <item>@raw/tetris</item>
+        <item>@raw/wiisports</item>
+        <item>@raw/pubg</item>
+        <item>@raw/mariokart8</item>
+        <item>@raw/mariobros</item>
+        <item>@raw/rdr2</item>
+        <item>@raw/pokemon</item>
+        <item>@raw/terraria</item>
+        <item>@raw/scythe</item>
+        <item>@raw/rftg</item>
+        <item>@raw/puertorico</item>
+        <item>@raw/ra</item>
+        <item>@raw/powergrid</item>
+    </array>
+
+    <integer-array name="video_thumbnail">
+        <item>@drawable/minecraft</item>
+        <item>@drawable/gta5</item>
+        <item>@drawable/tetris</item>
+        <item>@drawable/wiisports</item>
+        <item>@drawable/pubg</item>
+        <item>@drawable/mariokart8</item>
+        <item>@drawable/mariobros</item>
+        <item>@drawable/rdr2</item>
+        <item>@drawable/pokemon</item>
+        <item>@drawable/terraria</item>
+        <item>@drawable/scythe</item>
+        <item>@drawable/rftg</item>
+        <item>@drawable/puertorico</item>
+        <item>@drawable/ra</item>
+        <item>@drawable/powergrid</item>
+    </integer-array>
+
+    <string-array name="data_sound">
+        <item>sound</item>
+        <item>sound2</item>
+        <item>sound3</item>
+        <item>sound4</item>
+        <item>sound5</item>
+        <item>sound6</item>
+        <item>sound7</item>
+        <item>sound8</item>
+        <item>sound9</item>
+        <item>sound10</item>
+        <item>sound11</item>
+        <item>sound12</item>
+        <item>sound13</item>
+        <item>sound14</item>
+        <item>sound15</item>
+    </string-array>
+</resources>
